@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
 	
-	//Calc 
+	
 	
     Calc calculator(21,7);
     
